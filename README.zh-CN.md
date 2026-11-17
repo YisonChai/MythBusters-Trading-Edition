@@ -12,18 +12,34 @@
 
 ## 回测记录
 
-GitHub 不直接渲染下面的 HTML，本仓库也没有部署 GitHub Pages。请下载各版 `REPORT.html` 后离线打开。CasaVerilla 的三行是三次分开的窗口，收益不能加总。目录说明见 [casa-verilla-markov](casa-verilla-markov/README.md)。
+本仓库现在只保留 CasaVerilla 的这一次研究：年度目标未达，实际是 30 日训练加 30 日测试。此前的 3 日和 7 日目录不在树里，也不会被发布。说明见 [casa-verilla-markov](casa-verilla-markov/README.md)。
+
+报告页是 [report.html](https://yisonchai.github.io/MythBusters-Trading-Edition/report.html)。同一文件也以 [REPORT.html](https://yisonchai.github.io/MythBusters-Trading-Edition/REPORT.html) 和站点根路径提供。GitHub Pages 的工作流只发布这份静态报告，不发布 `data/`。小写和大写入口不依赖服务器是否区分大小写。
 
 | 来源 | 回测数据和代码 | 回测结果 | 最终结论 |
 | --- | --- | --- | --- |
-| [CasaVerilla](https://x.com/CasaVerilla/status/2122259548102656341)：首次研究，初始3日训练、3日滚动测试 | [src](casa-verilla-markov/01-initial-3d-3d/src) · [data](casa-verilla-markov/01-initial-3d-3d/data) · [协议](casa-verilla-markov/01-initial-3d-3d/研究协议_预先固定.md) | [REPORT.html](casa-verilla-markov/01-initial-3d-3d/REPORT.html)（下载后离线打开）。2026-11-11 08:00至2026-11-17 08:00台北，前3日初始训练，后3日每日扩展测试。15分钟 Chainlink 与1小时 Binance 分开。终局模型、元数据费、5%+87%：15分钟35笔、−60.73美元；1小时15笔、−27.19美元。字面一步概率是诊断变体，概率事件与到期结果不一致。报价代理，不是可执行收益。 | <img src="assets/stamps/inconclusive-zh.png" width="145" alt="尚无定论"> |
-| [CasaVerilla](https://x.com/CasaVerilla/status/2122259548102656341)：30日训练、7日测试 | [src](casa-verilla-markov/02-month-training-7d-test/src) · [data](casa-verilla-markov/02-month-training-7d-test/data) · [协议](casa-verilla-markov/02-month-training-7d-test/研究协议.md) | [REPORT.html](casa-verilla-markov/02-month-training-7d-test/REPORT.html)（下载后离线打开）。训练2026-09-30 08:00至2026-10-30 08:00台北（1438/1440），测试2026-10-31 08:00至2026-11-07 08:00（330/336）。BTC/ETH 一小时。大模型元数据费率：5%+87%为34笔、+79.50美元；去持续率196笔、−511.86美元；配图价带109笔、+286.32美元。加入5分钟延迟及2美分后转亏。没有完成账户5分钟产品复刻。市场价 Brier 仍优于模型。 | <img src="assets/stamps/inconclusive-zh.png" width="145" alt="尚无定论"> |
-| [CasaVerilla](https://x.com/CasaVerilla/status/2122259548102656341)：年度目标未达，实际30日训练、30日测试 | [src](casa-verilla-markov/03-annual-target-unmet-30d-test/src) · [data](casa-verilla-markov/03-annual-target-unmet-30d-test/data) · [协议](casa-verilla-markov/03-annual-target-unmet-30d-test/研究协议.md) | [REPORT.html](casa-verilla-markov/03-annual-target-unmet-30d-test/REPORT.html)（下载后离线打开）。年度目标未达：训练2026-09-17 08:00至2026-10-17 08:00台北（1436/1440），测试2026-10-18 08:00至2026-11-17 08:00（1434/1440），不是一年训练。测试市场33.05%此前已评估，86.61%此前已下载，不是全新盲测。大模型元数据费率：5%+87%为146笔、+195.92美元；去持续率927笔、−230.62美元；配图价带270笔、+865.76美元。延迟5分钟及2美分后分别为−282.08、−6837.91、−46.20美元。市场价概率基线仍优于大模型。`data/raw/alternatives/` 未入模。 | <img src="assets/stamps/inconclusive-zh.png" width="145" alt="尚无定论"> |
+| [CasaVerilla](https://x.com/CasaVerilla/status/2122259548102656341)：年度目标未达，实际30日训练、30日测试 | [src](casa-verilla-markov/03-annual-target-unmet-30d-test/src) · [data](casa-verilla-markov/03-annual-target-unmet-30d-test/data) · [协议](casa-verilla-markov/03-annual-target-unmet-30d-test/研究协议.md) | [报告](https://yisonchai.github.io/MythBusters-Trading-Edition/report.html)。训练 2026-09-17 08:00 至 2026-10-17 08:00 台北（1436/1440），测试 2026-10-18 08:00 至 2026-11-17 08:00（1434/1440）。页面打开时是大模型 6600 状态、BTC+ETH、3% 差值 + 87% 持续率 + 0.83 至 0.97 价格带、元数据费率：270 笔、+865.76 美元。同一策略在延迟 5 分钟再加 2 美分时为 131 笔、−46.20 美元。这是报价代理，不是可执行成交。测试市场 33.05% 此前已评估，86.61% 此前已下载。市场价基线的 Brier 仍然更好。`data/raw/alternatives/` 未入模。 | confirm |
 
-完成的案例会在最后一列盖上判定章。
+这一行的 `confirm` 只表示本研究已经放进仓库，并且上表数字对照过 `results.csv`。它不表示原帖的一年训练、所宣传的月收益，或稳定可执行盈利已经被证实。
+
+完成的案例会在最后一列盖上判定章。这一行按字面填写 `confirm`，含义就是上一句，不套用下面印章里“验证为真”的定义。
 
 | 印章 | 含义 |
 | --- | --- |
 | <img src="assets/stamps/confirmed-zh.png" width="145" alt="验证为真"> | 在所列回测条件下，证据支持原主张。 |
 | <img src="assets/stamps/busted-zh.png" width="145" alt="已证伪"> | 在所列回测条件下，结果与原主张相矛盾。 |
 | <img src="assets/stamps/inconclusive-zh.png" width="145" alt="尚无定论"> | 现有证据不足以判定真假。 |
+
+## 回测曲线
+
+发布报告的默认画面：大模型 6600 状态，BTC 与 ETH 共享现金，3% 差值 + 87% 持续率 + 0.83 至 0.97 价格带，元数据费率下的报价代理。曲线是从 10000 美元起的已实现权益，不是盯市。截图时间：2026-11-17。
+
+![大模型、3%加87%价格带、元数据费率的默认已实现权益曲线。](assets/casa-verilla-equity-curve.png)
+
+同一策略在延迟 5 分钟并加 2 美分后净亏 46.20 美元。该压力结果仍可在成本菜单里看到，不是上面这条曲线。
+
+## 来源帖
+
+未登录浏览器直接请求 <https://x.com/CasaVerilla/status/2122259548102656341> 得到 HTTP 403。下图是 X 官方嵌入页 `https://platform.twitter.com/embed/Tweet.html?id=2122259548102656341` 的截图，时间 2026-11-17T14:51:05Z。它不是完整帖子页面，嵌入页自己的 “Show more” 仍在。
+
+![CasaVerilla 原帖的官方嵌入截图，不是完整页面。](assets/casa-verilla-source-embed.png)

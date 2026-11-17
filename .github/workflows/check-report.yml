@@ -1,0 +1,43 @@
+name: Check published report
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Confirm the kept report and its default view
+        run: |
+          python3 - << 'PY'
+          from pathlib import Path
+          report = Path("casa-verilla-markov/03-annual-target-unmet-30d-test/REPORT.html")
+          text = report.read_text(encoding="utf-8")
+          needed = [
+              "$('model').value='large'",
+              "$('strategy').value='edge03_band'",
+              "$('cost').value='fees'",
+              "用买票理解策略",
+              "33.05%",
+              "86.61%",
+              "没有一年训练",
+          ]
+          missing = [s for s in needed if s not in text]
+          if missing:
+              raise SystemExit("report missing: " + ", ".join(missing))
+          for gone in ["casa-verilla-markov/01-initial-3d-3d", "casa-verilla-markov/02-month-training-7d-test"]:
+              if Path(gone).exists():
+                  raise SystemExit("removed study still present: " + gone)
+          readme = Path("README.md").read_text(encoding="utf-8")
+          if "01-initial-3d-3d" in readme or "02-month-training-7d-test" in readme:
+              raise SystemExit("README still links a removed study")
+          for image in ["assets/casa-verilla-equity-curve.png", "assets/casa-verilla-source-embed.png"]:
+              if not Path(image).is_file():
+                  raise SystemExit("missing " + image)
+          print("report default and tree check ok", report.stat().st_size)
+          PY

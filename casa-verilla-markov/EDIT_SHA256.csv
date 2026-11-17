@@ -8,3 +8,14 @@ casa-verilla-markov/01-initial-3d-3d/REPORT.html,5873254,04f8f3ad22a8a90e7aee884
 casa-verilla-markov/02-month-training-7d-test/REPORT.html,14685159,0a32d58a9ed94b6624736a2cc2c92fe5353576db456b1231d685c91751bdba9c,a6e552dc4019ca67b953fb52d7ef7ec8d6dbd9c45457f6d60163cbc6702a5171,teaching section added; 月度马尔可夫回测.html remains the prior bytes
 casa-verilla-markov/03-annual-target-unmet-30d-test/REPORT.html,10622423,49d3c5d0b5084d50151a2c15bce326cc317adbbf3cbd58484e7dd302a1c865a2,5aa03c5bd6844655729921310ee3e9c71e8e28105348350aa3f371ea78264737,teaching section added; both original HTML names remain the prior bytes
 casa-verilla-markov/EDIT_SHA256.csv,,,,this file lists the edits above and is not part of SOURCE_MANIFEST.csv
+README.md,4556,21385c3962611cf2ee8ff3a5a257a181f9f2328ac196ae8aa4a878e400917b58,,root table keeps only the annual study and points at the Pages report
+README.zh-CN.md,4281,0265998dca8242ff47e8a9368ea96457cc0fb859c8a2aa33bf586c90ff7ea752,,Chinese table matches the English scope and confirm wording
+casa-verilla-markov/README.md,1354,c30f4c426d445042868d52dffdc0d3b8243234bfa6beae67ae0929653dc9d6d9,,index now describes only version 03
+casa-verilla-markov/SOURCE_MANIFEST_SCOPE.md,930,c585257cf5036501a5997b9fe5e2a75ba801d535ab345a0e278471a518022013,,scope note; SOURCE_MANIFEST.csv bytes unchanged
+casa-verilla-markov/03-annual-target-unmet-30d-test/PATHS.md,1518,7a97ea8576faa2e0bd5d3641b06853a9decf1a24579ca7237c9bc4da3decf35f,,explains symlinks and the removed directories
+casa-verilla-markov/03-annual-target-unmet-30d-test/REPORT.html,10622440,dc02853ae52660781dbff9a9f650e8dd8bc78b551eb6900b20b40844a0eda307,49d3c5d0b5084d50151a2c15bce326cc317adbbf3cbd58484e7dd302a1c865a2,opening selection is large / BTC+ETH / edge03_band / fees
+casa-verilla-markov/03-annual-target-unmet-30d-test/src/dashboard.template.html,34075,d8fdc15974e275b0d9a6256707fc7513554b2c94ed02caae4150e6bcef7e5ee9,,template uses the same opening selection
+.github/workflows/pages.yml,997,ff62aac57d258638c3cb8148695f16bc61d33f8e6df9dd882bddf402111f1178,,publishes only the static report
+.github/workflows/check-report.yml,1648,860995698410f714ebf2b3c4f5e1cb1d0c4ac2971e2c2d127e993e73d7a43f70,,checks the kept report before merge
+assets/casa-verilla-equity-curve.png,133953,4c0da5e1ce50212145d4f5f186b0722ba8ec898d8b2bb3717f2386709a0ddb18,,screenshot of the default realized-equity curve
+assets/casa-verilla-source-embed.png,127075,f994085fa83a5b4a9244a1fc8756c31d025a35579940d21e553fe1b6962d21fe,,"official X embed screenshot, not a full page"
