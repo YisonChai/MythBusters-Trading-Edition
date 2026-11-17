@@ -1,0 +1,21 @@
+market_id,slug,asset,role,start,end,start_utc,end_utc,settle,label_available,y_up,reference_check,rule,resolution_source,fee_rate,fee_exponent,fee_snapshot_updated_at,fee_historical_certainty,observations,excluded_reason
+4781342,bitcoin-up-or-down-september-23-2026-12am-et,btc,train,1790136000,1790139600,2026-09-23T04:00:00+00:00,2026-09-23T05:00:00+00:00,1790140289,1790143200,1,match,"This market will resolve to ""Up"" if the close price is greater than or equal to the open price for the BTC/USDT 1 hour candle that begins on the time and date specified in the title. Otherwise, this market will resolve to ""Down"".
+
+The resolution source for this market is information from Binance, specifically the BTC/USDT pair (https://www.binance.com/en/trade/BTC_USDT). The close « C » and open « O » displayed at the top of the graph for the relevant ""1H"" candle will be used once the data for that candle is finalized.
+
+Please note that this market is about the price according to Binance BTC/USDT, not according to other exchanges or trading pairs.",https://www.binance.com/en/trade/BTC_USDT,0.07,1,2026-09-24T05:12:44.803497Z,metadata_snapshot_not_immutable_historical_audit,11,not_binary_resolved
+4781357,ethereum-up-or-down-september-23-2026-12am-et,eth,train,1790136000,1790139600,2026-09-23T04:00:00+00:00,2026-09-23T05:00:00+00:00,1790140291,1790143200,1,match,"This market will resolve to ""Up"" if the close price is greater than or equal to the open price for the ETH/USDT 1 hour candle that begins on the time and date specified in the title. Otherwise, this market will resolve to ""Down"".
+
+The resolution source for this market is information from Binance, specifically the ETH/USDT pair (https://www.binance.com/en/trade/ETH_USDT). The close « C » and open « O » displayed at the top of the graph for the relevant ""1H"" candle will be used once the data for that candle is finalized.
+
+Please note that this market is about the price according to Binance ETH/USDT, not according to other exchanges or trading pairs.",https://www.binance.com/en/trade/ETH_USDT,0.07,1,2026-09-24T05:08:43.543282Z,metadata_snapshot_not_immutable_historical_audit,11,not_binary_resolved
+5172420,bitcoin-up-or-down-october-3-2026-4am-et,btc,train,1791014400,1791018000,2026-10-03T08:00:00+00:00,2026-10-03T09:00:00+00:00,1791018692,1791021600,1,match,"This market will resolve to ""Up"" if the close price is greater than or equal to the open price for the BTC/USDT 1 hour candle that begins on the time and date specified in the title. Otherwise, this market will resolve to ""Down"".
+
+The resolution source for this market is information from Binance, specifically the BTC/USDT pair (https://www.binance.com/en/trade/BTC_USDT). The close « C » and open « O » displayed at the top of the graph for the relevant ""1H"" candle will be used once the data for that candle is finalized.
+
+Please note that this market is about the price according to Binance BTC/USDT, not according to other exchanges or trading pairs.",https://www.binance.com/en/trade/BTC_USDT,0.07,1,2026-10-04T09:07:01.804888Z,metadata_snapshot_not_immutable_historical_audit,11,not_binary_resolved
+5172421,ethereum-up-or-down-october-3-2026-4am-et,eth,train,1791014400,1791018000,2026-10-03T08:00:00+00:00,2026-10-03T09:00:00+00:00,1791018692,1791021600,1,match,"This market will resolve to ""Up"" if the close price is greater than or equal to the open price for the ETH/USDT 1 hour candle that begins on the time and date specified in the title. Otherwise, this market will resolve to ""Down"".
+
+The resolution source for this market is information from Binance, specifically the ETH/USDT pair (https://www.binance.com/en/trade/ETH_USDT). The close « C » and open « O » displayed at the top of the graph for the relevant ""1H"" candle will be used once the data for that candle is finalized.
+
+Please note that this market is about the price according to Binance ETH/USDT, not according to other exchanges or trading pairs.",https://www.binance.com/en/trade/ETH_USDT,0.07,1,2026-10-04T09:02:59.865353Z,metadata_snapshot_not_immutable_historical_audit,11,not_binary_resolved

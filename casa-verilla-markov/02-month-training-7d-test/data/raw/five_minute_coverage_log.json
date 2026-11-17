@@ -1,0 +1,7 @@
+{
+  "checked_at": "2026-11-17T10:52:09.045084+00:00",
+  "event_url": "https://gamma-api.polymarket.com/events?slug=btc-updown-5m-1790726400",
+  "history_url": "https://data-api.polymarket.com/v2/prices-history?token_id=115277751312619311319056713978788053190100979723064947102338377825472856884794&start=1790725200&end=1790727000&bucket_seconds=60",
+  "http_status": "200",
+  "points": 0
+}

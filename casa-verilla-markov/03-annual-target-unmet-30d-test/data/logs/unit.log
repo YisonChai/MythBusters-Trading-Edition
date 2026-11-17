@@ -1,0 +1,13 @@
+test_cash_constraint (test_core.Tests.test_cash_constraint) ... ok
+test_fee (test_core.Tests.test_fee) ... ok
+test_gate_is_not_win_probability (test_core.Tests.test_gate_is_not_win_probability) ... ok
+test_market_no_fabricated_advantage (test_core.Tests.test_market_no_fabricated_advantage) ... ok
+test_no_trade_portfolio (test_core.Tests.test_no_trade_portfolio) ... ok
+test_same_second_settlements_are_batched (test_core.Tests.test_same_second_settlements_are_batched) ... ok
+test_settlement_before_entry_same_second (test_core.Tests.test_settlement_before_entry_same_second) ... ok
+test_state_sizes_and_features (test_core.Tests.test_state_sizes_and_features) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.001s
+
+OK

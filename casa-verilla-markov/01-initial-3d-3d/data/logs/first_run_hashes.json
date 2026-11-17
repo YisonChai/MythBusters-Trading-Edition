@@ -1,0 +1,12 @@
+{
+  "bootstrap_diagnostic.csv": "b2eabd65a7037f46a8d3757a0c2b5a3456611e9317d2fabafa02355e4dd7cfdc",
+  "exclusions.csv": "0e4d1898e90bbc51c6333298ece6a9ed921c42cb0d6f7e15319e8438e04633e3",
+  "folds.csv": "28b22f44bab0336979d70fc6d36be940d4236cc5970c9e93d01aa0d2f225d47f",
+  "all_predictions.csv": "fb119853e84e690914322b839267f794b76fc9d46c5b60716546dfae693cffa9",
+  "variant_results.csv": "fd64b72cecfacfaab023c74157930eda5b7fc148ca8c2d306c5e7416265431cc",
+  "trades.csv": "3f2ca185ca41011864af1df6a170637842b99212ed843ad4fd98739fb9378b9e",
+  "calibration.csv": "bcd236c7a64e1cde06d4ab13dbe49144ad92958782b993987934ac36a97b7705",
+  "model_state_diagnostics.csv": "ed655c8607e96c37c10400c700fd3b21bfee08434f835dc931bc0ad0f52e7590",
+  "market_manifest.csv": "8bbd8a4f0201679b114d499bd3bbacd202a130f4cc6a790e1fd112c21d48f162",
+  "signals.csv": "d0b1e0f6bf65a477f1c88b0f3a292b76af9846d573b01266fbe0c2c9dcd391c7"
+}

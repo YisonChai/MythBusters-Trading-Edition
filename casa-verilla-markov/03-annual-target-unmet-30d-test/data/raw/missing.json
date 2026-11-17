@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "bitcoin-up-or-down-november-1-2026-12am-et",
+    "asset": "btc",
+    "start": 1793505600,
+    "end": 1793509200,
+    "role": "test"
+  },
+  {
+    "slug": "ethereum-up-or-down-november-1-2026-12am-et",
+    "asset": "eth",
+    "start": 1793505600,
+    "end": 1793509200,
+    "role": "test"
+  },
+  {
+    "slug": "bitcoin-up-or-down-november-1-2026-1am-et",
+    "asset": "btc",
+    "start": 1793509200,
+    "end": 1793512800,
+    "role": "test"
+  },
+  {
+    "slug": "ethereum-up-or-down-november-1-2026-1am-et",
+    "asset": "eth",
+    "start": 1793509200,
+    "end": 1793512800,
+    "role": "test"
+  },
+  {
+    "slug": "bitcoin-up-or-down-november-1-2026-1am-et",
+    "asset": "btc",
+    "start": 1793512800,
+    "end": 1793516400,
+    "role": "test"
+  },
+  {
+    "slug": "ethereum-up-or-down-november-1-2026-1am-et",
+    "asset": "eth",
+    "start": 1793512800,
+    "end": 1793516400,
+    "role": "test"
+  }
+]

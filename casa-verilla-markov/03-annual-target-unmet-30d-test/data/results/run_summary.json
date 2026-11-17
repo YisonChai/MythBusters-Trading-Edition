@@ -1,0 +1,75 @@
+{
+  "train_start": 1789603200,
+  "train_end": 1792195200,
+  "fit_end": 1791590400,
+  "validation_start": 1791676800,
+  "test_start": 1792281600,
+  "test_end": 1794873600,
+  "initial": 10000.0,
+  "shares": 100.0,
+  "bar_seconds": 300,
+  "champion_from_validation": "market",
+  "chosen_params": {
+    "small": {
+      "alpha": 10,
+      "min_count": 5
+    },
+    "medium": {
+      "alpha": 50,
+      "min_count": 15
+    },
+    "large": {
+      "alpha": 10,
+      "min_count": 5
+    }
+  },
+  "splits": [
+    {
+      "split": "train_full",
+      "markets": 1436,
+      "first_start": "2026-09-17T00:00:00+00:00",
+      "last_end": "2026-10-17T00:00:00+00:00",
+      "last_label_available": "2026-10-17T01:00:00+00:00"
+    },
+    {
+      "split": "internal_fit",
+      "markets": 1100,
+      "first_start": "2026-09-17T00:00:00+00:00",
+      "last_end": "2026-10-10T00:00:00+00:00",
+      "last_label_available": "2026-10-10T01:00:00+00:00"
+    },
+    {
+      "split": "validation",
+      "markets": 288,
+      "first_start": "2026-10-11T00:00:00+00:00",
+      "last_end": "2026-10-17T00:00:00+00:00",
+      "last_label_available": "2026-10-17T01:00:00+00:00"
+    },
+    {
+      "split": "test",
+      "markets": 1434,
+      "first_start": "2026-10-18T00:00:00+00:00",
+      "last_end": "2026-11-17T00:00:00+00:00",
+      "last_label_available": "2026-11-17T01:00:00+00:00"
+    }
+  ],
+  "market_count": 2918,
+  "manifest_count": 2922,
+  "exclusions": 4,
+  "theoretical_states": {
+    "small": 220,
+    "medium": 1320,
+    "large": 6600
+  },
+  "test_previously_evaluated": true,
+  "test_note": "测试月含前次已评估日期及前次训练/已下载日期，不能称全新盲测；具体ID与比例见test_reuse.csv。",
+  "limitations": [
+    "仅BTC/ETH一小时产品；真实5分钟桶，不是5分钟合约",
+    "历史价格代理，不含bid/ask或深度，不保证成交",
+    "费率按合约元数据快照，不是完整历史费率审计",
+    "持续率一步为5分钟，不能直接等同前次1分钟持续率",
+    "已实现权益，未到期按全成本保留，非盯市",
+    "年度目标未完成：同源300秒细粒度历史仅核实到09月17日，实际训练30天、测试30天",
+    "市场价自比较的阈值策略没有概率优势，故不交易"
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "requested_training_days": 365,
+  "actual_training_days": 30,
+  "requested_training_markets": 17520,
+  "actual_training_markets": 1436,
+  "earliest_verified_300s": 1789603200,
+  "official_probe_count": 56,
+  "annual_training_completed": false,
+  "coverage": [
+    {
+      "month": "2025-10",
+      "requested_year_training_markets": 720,
+      "probe_markets_found": 2,
+      "probe_markets_tested": 2,
+      "probe_with_300s": 0,
+      "probe_fee_snapshots": "未知",
+      "probe_300s_points": 0,
+      "downloaded_markets": 0,
+      "usable_training_markets": 0,
+      "usable_testing_markets": 0,
+      "excluded_markets": 0,
+      "actual_fee_rate_snapshots": "",
+      "actual_fee_exponents": "",
+      "probe_resolution_sources": "https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT",
+      "coverage_note": "探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分"
+    },
+    {
+      "month": "2025-11",
+      "requested_year_training_markets": 1440,
+      "probe_markets_found": 2,
+      "probe_markets_tested": 2,
+      "probe_with_300s": 0,
+      "probe_fee_snapshots": "未知",
+      "probe_300s_points": 0,
+      "downloaded_markets": 0,
+      "usable_training_markets": 0,
+      "usable_testing_markets": 0,
+      "excluded_markets": 0,
+      "actual_fee_rate_snapshots": "",
+      "actual_fee_exponents": "",
+      "probe_resolution_sources": "https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT",
+      "coverage_note": "探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分"
+    },
+    {
+      "month": "2025-12",
+      "requested_year_training_markets": 1488,
+      "probe_markets_found": 2,
+      "probe_markets_tested": 2,
+      "probe_with_300s": 0,
+      "probe_fee_snapshots": "未知",
+      "probe_300s_points": 0,
+      "downloaded_markets": 0,
+      "usable_training_markets": 0,
+      "usable_testing_markets": 0,
+      "excluded_markets": 0,
+      "actual_fee_rate_snapshots": "",
+      "actual_fee_exponents": "",
+      "probe_resolution_sources": "https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT",
+      "coverage_note": "探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分"
+    },
+    {
+      "month": "2026-01",
+      "requested_year_training_markets": 1488,
+      "probe_markets_found": 2,
+      "probe_markets_tested": 2,
+      "probe_with_300s": 0,
+      "probe_fee_snapshots": "未知",
+      "probe_300s_points": 0,
+      "downloaded_markets": 0,
+      "usable_training_markets": 0,
+      "usable_testing_markets": 0,
+      "excluded_markets": 0,
+      "actual_fee_rate_snapshots": "",
+      "actual_fee_exponents": "",
+      "probe_resolution_sources": "https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT",
+      "coverage_note": "探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分"
+    },
+    {
+      "month": "2026-02",
+      "requested_year_training_markets": 1344,
+      "probe_markets_found": 2,
+      "probe_markets_tested": 2,
+      "probe_with_300s": 0,
+      "probe_fee_snapshots": "未知",
+      "probe_300s_points": 0,
+      "downloaded_markets": 0,
+      "usable_training_markets": 0,
+      "usable_testing_markets": 0,
+      "excluded_markets": 0,
+      "actual_fee_rate_snapshots": "",
+      "actual_fee_exponents": "",
+      "probe_resolution_sources": "https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT",
+      "coverage_note": "探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分"
+    },
+    {
+      "month": "2026-03",
+      "requested_year_training_markets": 1488,
+      "probe_markets_found": 2,
+      "probe_markets_tested": 2,
+      "probe_with_300s": 0,
+      "probe_fee_snapshots": "{'exponent': 2, 'rate': 0.25, 'takerOnly': True, 'rebateRate': 0.2}",
+      "probe_300s_points": 0,
+      "downloaded_markets": 0,
+      "usable_training_markets": 0,
+      "usable_testing_markets": 0,
+      "excluded_markets": 0,
+      "actual_fee_rate_snapshots": "",
+      "actual_fee_exponents": "",
+      "probe_resolution_sources": "https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT",
+      "coverage_note": "探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分"
+    },
+    {
+      "month": "2026-04",
+      "requested_year_training_markets": 1440,
+      "probe_markets_found": 2,
+      "probe_markets_tested": 2,
+      "probe_with_300s": 0,
+      "probe_fee_snapshots": "{'exponent': 1, 'rate': 0.07, 'takerOnly': True, 'rebateRate': 0.2}",
+      "probe_300s_points": 0,
+      "downloaded_markets": 0,
+      "usable_training_markets": 0,
+      "usable_testing_markets": 0,
+      "excluded_markets": 0,
+      "actual_fee_rate_snapshots": "",
+      "actual_fee_exponents": "",
+      "probe_resolution_sources": "https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT",
+      "coverage_note": "探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分"
+    },
+    {
+      "month": "2026-05",
+      "requested_year_training_markets": 1488,
+      "probe_markets_found": 2,
+      "probe_markets_tested": 2,
+      "probe_with_300s": 0,
+      "probe_fee_snapshots": "{'exponent': 1, 'rate': 0.07, 'takerOnly': True, 'rebateRate': 0.2}",
+      "probe_300s_points": 0,
+      "downloaded_markets": 0,
+      "usable_training_markets": 0,
+      "usable_testing_markets": 0,
+      "excluded_markets": 0,
+      "actual_fee_rate_snapshots": "",
+      "actual_fee_exponents": "",
+      "probe_resolution_sources": "https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT",
+      "coverage_note": "探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分"
+    },
+    {
+      "month": "2026-06",
+      "requested_year_training_markets": 1440,
+      "probe_markets_found": 2,
+      "probe_markets_tested": 2,
+      "probe_with_300s": 0,
+      "probe_fee_snapshots": "{'exponent': 1, 'rate': 0.07, 'takerOnly': True, 'rebateRate': 0.2}",
+      "probe_300s_points": 0,
+      "downloaded_markets": 0,
+      "usable_training_markets": 0,
+      "usable_testing_markets": 0,
+      "excluded_markets": 0,
+      "actual_fee_rate_snapshots": "",
+      "actual_fee_exponents": "",
+      "probe_resolution_sources": "https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT",
+      "coverage_note": "探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分"
+    },
+    {
+      "month": "2026-07",
+      "requested_year_training_markets": 1488,
+      "probe_markets_found": 2,
+      "probe_markets_tested": 2,
+      "probe_with_300s": 0,
+      "probe_fee_snapshots": "{'exponent': 1, 'rate': 0.07, 'takerOnly': True, 'rebateRate': 0.2}",
+      "probe_300s_points": 0,
+      "downloaded_markets": 0,
+      "usable_training_markets": 0,
+      "usable_testing_markets": 0,
+      "excluded_markets": 0,
+      "actual_fee_rate_snapshots": "",
+      "actual_fee_exponents": "",
+      "probe_resolution_sources": "https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT",
+      "coverage_note": "探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分"
+    },
+    {
+      "month": "2026-08",
+      "requested_year_training_markets": 1488,
+      "probe_markets_found": 2,
+      "probe_markets_tested": 2,
+      "probe_with_300s": 0,
+      "probe_fee_snapshots": "{'exponent': 1, 'rate': 0.07, 'takerOnly': True, 'rebateRate': 0.2}",
+      "probe_300s_points": 0,
+      "downloaded_markets": 0,
+      "usable_training_markets": 0,
+      "usable_testing_markets": 0,
+      "excluded_markets": 0,
+      "actual_fee_rate_snapshots": "",
+      "actual_fee_exponents": "",
+      "probe_resolution_sources": "https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT",
+      "coverage_note": "探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分"
+    },
+    {
+      "month": "2026-09",
+      "requested_year_training_markets": 1440,
+      "probe_markets_found": 30,
+      "probe_markets_tested": 30,
+      "probe_with_300s": 20,
+      "probe_fee_snapshots": "{'exponent': 1, 'rate': 0.07, 'takerOnly': True, 'rebateRate': 0.2}",
+      "probe_300s_points": 332,
+      "downloaded_markets": 672,
+      "usable_training_markets": 670,
+      "usable_testing_markets": 0,
+      "excluded_markets": 2,
+      "actual_fee_rate_snapshots": "0.07",
+      "actual_fee_exponents": "1",
+      "probe_resolution_sources": "https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT",
+      "coverage_note": "探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分"
+    },
+    {
+      "month": "2026-10",
+      "requested_year_training_markets": 768,
+      "probe_markets_found": 2,
+      "probe_markets_tested": 2,
+      "probe_with_300s": 2,
+      "probe_fee_snapshots": "{'exponent': 1, 'rate': 0.07, 'takerOnly': True, 'rebateRate': 0.2}",
+      "probe_300s_points": 34,
+      "downloaded_markets": 1488,
+      "usable_training_markets": 766,
+      "usable_testing_markets": 672,
+      "excluded_markets": 2,
+      "actual_fee_rate_snapshots": "0.07",
+      "actual_fee_exponents": "1",
+      "probe_resolution_sources": "https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT",
+      "coverage_note": "探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分"
+    },
+    {
+      "month": "2026-11",
+      "requested_year_training_markets": 0,
+      "probe_markets_found": 2,
+      "probe_markets_tested": 2,
+      "probe_with_300s": 2,
+      "probe_fee_snapshots": "{'exponent': 1, 'rate': 0.07, 'takerOnly': True, 'rebateRate': 0.2}",
+      "probe_300s_points": 34,
+      "downloaded_markets": 762,
+      "usable_training_markets": 0,
+      "usable_testing_markets": 762,
+      "excluded_markets": 0,
+      "actual_fee_rate_snapshots": "0.07",
+      "actual_fee_exponents": "1",
+      "probe_resolution_sources": "https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT",
+      "coverage_note": "探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分"
+    }
+  ],
+  "reuse": {
+    "test_markets": 1434,
+    "prior_evaluated": 474,
+    "prior_downloaded": 1242,
+    "evaluated_ratio": 0.3305439330543933,
+    "downloaded_ratio": 0.8661087866108786,
+    "evaluated_days": 10,
+    "downloaded_days": 26,
+    "total_days": 30,
+    "daily": [
+      {
+        "day_start": 1792281600,
+        "day_start_taipei": "2026-10-18T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 0,
+        "prior_downloaded": 48
+      },
+      {
+        "day_start": 1792368000,
+        "day_start_taipei": "2026-10-19T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 0,
+        "prior_downloaded": 48
+      },
+      {
+        "day_start": 1792454400,
+        "day_start_taipei": "2026-10-20T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 0,
+        "prior_downloaded": 48
+      },
+      {
+        "day_start": 1792540800,
+        "day_start_taipei": "2026-10-21T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 0,
+        "prior_downloaded": 48
+      },
+      {
+        "day_start": 1792627200,
+        "day_start_taipei": "2026-10-22T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 0,
+        "prior_downloaded": 48
+      },
+      {
+        "day_start": 1792713600,
+        "day_start_taipei": "2026-10-23T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 0,
+        "prior_downloaded": 48
+      },
+      {
+        "day_start": 1792800000,
+        "day_start_taipei": "2026-10-24T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 0,
+        "prior_downloaded": 48
+      },
+      {
+        "day_start": 1792886400,
+        "day_start_taipei": "2026-10-25T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 0,
+        "prior_downloaded": 48
+      },
+      {
+        "day_start": 1792972800,
+        "day_start_taipei": "2026-10-26T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 0,
+        "prior_downloaded": 48
+      },
+      {
+        "day_start": 1793059200,
+        "day_start_taipei": "2026-10-27T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 0,
+        "prior_downloaded": 48
+      },
+      {
+        "day_start": 1793145600,
+        "day_start_taipei": "2026-10-28T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 0,
+        "prior_downloaded": 48
+      },
+      {
+        "day_start": 1793232000,
+        "day_start_taipei": "2026-10-29T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 0,
+        "prior_downloaded": 48
+      },
+      {
+        "day_start": 1793318400,
+        "day_start_taipei": "2026-10-30T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 0,
+        "prior_downloaded": 48
+      },
+      {
+        "day_start": 1793404800,
+        "day_start_taipei": "2026-10-31T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 48,
+        "prior_downloaded": 48
+      },
+      {
+        "day_start": 1793491200,
+        "day_start_taipei": "2026-11-01T08:00:00+08:00",
+        "markets": 42,
+        "prior_evaluated": 42,
+        "prior_downloaded": 42
+      },
+      {
+        "day_start": 1793577600,
+        "day_start_taipei": "2026-11-02T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 48,
+        "prior_downloaded": 48
+      },
+      {
+        "day_start": 1793664000,
+        "day_start_taipei": "2026-11-03T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 48,
+        "prior_downloaded": 48
+      },
+      {
+        "day_start": 1793750400,
+        "day_start_taipei": "2026-11-04T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 48,
+        "prior_downloaded": 48
+      },
+      {
+        "day_start": 1793836800,
+        "day_start_taipei": "2026-11-05T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 48,
+        "prior_downloaded": 48
+      },
+      {
+        "day_start": 1793923200,
+        "day_start_taipei": "2026-11-06T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 48,
+        "prior_downloaded": 48
+      },
+      {
+        "day_start": 1794009600,
+        "day_start_taipei": "2026-11-07T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 0,
+        "prior_downloaded": 0
+      },
+      {
+        "day_start": 1794096000,
+        "day_start_taipei": "2026-11-08T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 0,
+        "prior_downloaded": 0
+      },
+      {
+        "day_start": 1794182400,
+        "day_start_taipei": "2026-11-09T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 0,
+        "prior_downloaded": 0
+      },
+      {
+        "day_start": 1794268800,
+        "day_start_taipei": "2026-11-10T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 0,
+        "prior_downloaded": 0
+      },
+      {
+        "day_start": 1794355200,
+        "day_start_taipei": "2026-11-11T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 0,
+        "prior_downloaded": 48
+      },
+      {
+        "day_start": 1794441600,
+        "day_start_taipei": "2026-11-12T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 0,
+        "prior_downloaded": 48
+      },
+      {
+        "day_start": 1794528000,
+        "day_start_taipei": "2026-11-13T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 0,
+        "prior_downloaded": 48
+      },
+      {
+        "day_start": 1794614400,
+        "day_start_taipei": "2026-11-14T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 48,
+        "prior_downloaded": 48
+      },
+      {
+        "day_start": 1794700800,
+        "day_start_taipei": "2026-11-15T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 48,
+        "prior_downloaded": 48
+      },
+      {
+        "day_start": 1794787200,
+        "day_start_taipei": "2026-11-16T08:00:00+08:00",
+        "markets": 48,
+        "prior_evaluated": 48,
+        "prior_downloaded": 48
+      }
+    ]
+  }
+}

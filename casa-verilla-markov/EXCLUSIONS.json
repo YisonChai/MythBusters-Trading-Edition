@@ -1,0 +1,158 @@
+[
+  {
+    "version": "backtest",
+    "source": "/workspace/casa-verilla/backtest/casa-verilla-backtest-20261117.zip",
+    "bytes": 4437731,
+    "reason": "已下载或生成的嵌套压缩包，原始展开文件另保留"
+  },
+  {
+    "version": "backtest",
+    "source": "/workspace/casa-verilla/backtest/src/__pycache__/backtest.cpython-313.pyc",
+    "bytes": 34394,
+    "reason": "Python缓存，可重建"
+  },
+  {
+    "version": "backtest",
+    "source": "/workspace/casa-verilla/backtest/src/__pycache__/download.cpython-313.pyc",
+    "bytes": 10831,
+    "reason": "Python缓存，可重建"
+  },
+  {
+    "version": "backtest",
+    "source": "/workspace/casa-verilla/backtest/src/__pycache__/test_core.cpython-313.pyc",
+    "bytes": 3074,
+    "reason": "Python缓存，可重建"
+  },
+  {
+    "version": "month-backtest",
+    "source": "/workspace/casa-verilla/month-backtest/logs/extracted_ui.js",
+    "bytes": 14714,
+    "reason": "从既有HTML提取的可重建JS中间副本"
+  },
+  {
+    "version": "month-backtest",
+    "source": "/workspace/casa-verilla/month-backtest/results/dashboard_data.json",
+    "bytes": 26239979,
+    "reason": "可重建的展示JSON，数据已在原始CSV及既有HTML中，避免年版108MB文件"
+  },
+  {
+    "version": "month-backtest",
+    "source": "/workspace/casa-verilla/month-backtest/src/__pycache__/download.cpython-313.pyc",
+    "bytes": 10017,
+    "reason": "Python缓存，可重建"
+  },
+  {
+    "version": "month-backtest",
+    "source": "/workspace/casa-verilla/month-backtest/src/__pycache__/run.cpython-313.pyc",
+    "bytes": 45242,
+    "reason": "Python缓存，可重建"
+  },
+  {
+    "version": "month-backtest",
+    "source": "/workspace/casa-verilla/month-backtest/src/__pycache__/test_core.cpython-313.pyc",
+    "bytes": 5446,
+    "reason": "Python缓存，可重建"
+  },
+  {
+    "version": "month-backtest",
+    "source": "/workspace/casa-verilla/month-backtest/月度马尔可夫回测_完整包.zip",
+    "bytes": 11031032,
+    "reason": "已下载或生成的嵌套压缩包，原始展开文件另保留"
+  },
+  {
+    "version": "year-backtest",
+    "source": "/workspace/casa-verilla/year-backtest/logs/extracted_ui.js",
+    "bytes": 15825,
+    "reason": "从既有HTML提取的可重建JS中间副本"
+  },
+  {
+    "version": "year-backtest",
+    "source": "/workspace/casa-verilla/year-backtest/results/dashboard_data.json",
+    "bytes": 108850901,
+    "reason": "可重建的展示JSON，数据已在原始CSV及既有HTML中，避免年版108MB文件"
+  },
+  {
+    "version": "year-backtest",
+    "source": "/workspace/casa-verilla/year-backtest/src/__pycache__/audit.cpython-313.pyc",
+    "bytes": 25253,
+    "reason": "Python缓存，可重建"
+  },
+  {
+    "version": "year-backtest",
+    "source": "/workspace/casa-verilla/year-backtest/src/__pycache__/build_html.cpython-313.pyc",
+    "bytes": 10359,
+    "reason": "Python缓存，可重建"
+  },
+  {
+    "version": "year-backtest",
+    "source": "/workspace/casa-verilla/year-backtest/src/__pycache__/common.cpython-313.pyc",
+    "bytes": 4075,
+    "reason": "Python缓存，可重建"
+  },
+  {
+    "version": "year-backtest",
+    "source": "/workspace/casa-verilla/year-backtest/src/__pycache__/coverage.cpython-313.pyc",
+    "bytes": 14129,
+    "reason": "Python缓存，可重建"
+  },
+  {
+    "version": "year-backtest",
+    "source": "/workspace/casa-verilla/year-backtest/src/__pycache__/download.cpython-313.pyc",
+    "bytes": 8471,
+    "reason": "Python缓存，可重建"
+  },
+  {
+    "version": "year-backtest",
+    "source": "/workspace/casa-verilla/year-backtest/src/__pycache__/inspect_alternatives.cpython-313.pyc",
+    "bytes": 4579,
+    "reason": "Python缓存，可重建"
+  },
+  {
+    "version": "year-backtest",
+    "source": "/workspace/casa-verilla/year-backtest/src/__pycache__/package.cpython-313.pyc",
+    "bytes": 2910,
+    "reason": "Python缓存，可重建"
+  },
+  {
+    "version": "year-backtest",
+    "source": "/workspace/casa-verilla/year-backtest/src/__pycache__/probe.cpython-313.pyc",
+    "bytes": 5802,
+    "reason": "Python缓存，可重建"
+  },
+  {
+    "version": "year-backtest",
+    "source": "/workspace/casa-verilla/year-backtest/src/__pycache__/run.cpython-313.pyc",
+    "bytes": 45285,
+    "reason": "Python缓存，可重建"
+  },
+  {
+    "version": "year-backtest",
+    "source": "/workspace/casa-verilla/year-backtest/src/__pycache__/stability.cpython-313.pyc",
+    "bytes": 5208,
+    "reason": "Python缓存，可重建"
+  },
+  {
+    "version": "year-backtest",
+    "source": "/workspace/casa-verilla/year-backtest/src/__pycache__/test_core.cpython-313.pyc",
+    "bytes": 5445,
+    "reason": "Python缓存，可重建"
+  },
+  {
+    "version": "year-backtest",
+    "source": "/workspace/casa-verilla/year-backtest/src/__pycache__/write_report.cpython-313.pyc",
+    "bytes": 21364,
+    "reason": "Python缓存，可重建"
+  },
+  {
+    "version": "year-backtest",
+    "source": "/workspace/casa-verilla/year-backtest/年度目标核查_30日回测_完整包.zip",
+    "bytes": 66367121,
+    "reason": "已下载或生成的嵌套压缩包，原始展开文件另保留"
+  },
+  {
+    "version": "year-backtest",
+    "source": "/workspace/casa-verilla/year-backtest/年度目标核查_30日回测_轻量报告包.zip",
+    "bytes": 8421933,
+    "reason": "已下载或生成的嵌套压缩包，原始展开文件另保留"
+  }
+]

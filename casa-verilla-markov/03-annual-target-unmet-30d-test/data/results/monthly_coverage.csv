@@ -1,0 +1,15 @@
+month,requested_year_training_markets,probe_markets_found,probe_markets_tested,probe_with_300s,probe_fee_snapshots,probe_300s_points,downloaded_markets,usable_training_markets,usable_testing_markets,excluded_markets,actual_fee_rate_snapshots,actual_fee_exponents,probe_resolution_sources,coverage_note
+2025-10,720,2,2,0,未知,0,0,0,0,0,,,https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT,探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分
+2025-11,1440,2,2,0,未知,0,0,0,0,0,,,https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT,探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分
+2025-12,1488,2,2,0,未知,0,0,0,0,0,,,https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT,探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分
+2026-01,1488,2,2,0,未知,0,0,0,0,0,,,https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT,探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分
+2026-02,1344,2,2,0,未知,0,0,0,0,0,,,https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT,探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分
+2026-03,1488,2,2,0,"{'exponent': 2, 'rate': 0.25, 'takerOnly': True, 'rebateRate': 0.2}",0,0,0,0,0,,,https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT,探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分
+2026-04,1440,2,2,0,"{'exponent': 1, 'rate': 0.07, 'takerOnly': True, 'rebateRate': 0.2}",0,0,0,0,0,,,https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT,探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分
+2026-05,1488,2,2,0,"{'exponent': 1, 'rate': 0.07, 'takerOnly': True, 'rebateRate': 0.2}",0,0,0,0,0,,,https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT,探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分
+2026-06,1440,2,2,0,"{'exponent': 1, 'rate': 0.07, 'takerOnly': True, 'rebateRate': 0.2}",0,0,0,0,0,,,https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT,探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分
+2026-07,1488,2,2,0,"{'exponent': 1, 'rate': 0.07, 'takerOnly': True, 'rebateRate': 0.2}",0,0,0,0,0,,,https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT,探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分
+2026-08,1488,2,2,0,"{'exponent': 1, 'rate': 0.07, 'takerOnly': True, 'rebateRate': 0.2}",0,0,0,0,0,,,https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT,探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分
+2026-09,1440,30,30,20,"{'exponent': 1, 'rate': 0.07, 'takerOnly': True, 'rebateRate': 0.2}",332,672,670,0,2,0.07,1,https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT,探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分
+2026-10,768,2,2,2,"{'exponent': 1, 'rate': 0.07, 'takerOnly': True, 'rebateRate': 0.2}",34,1488,766,672,2,0.07,1,https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT,探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分
+2026-11,0,2,2,2,"{'exponent': 1, 'rate': 0.07, 'takerOnly': True, 'rebateRate': 0.2}",34,762,0,762,0,0.07,1,https://www.binance.com/en/trade/BTC_USDT;https://www.binance.com/en/trade/ETH_USDT,探针数不是全月市场数；未抓取部分不能当已全面检查；月份以台北1日08:00划分

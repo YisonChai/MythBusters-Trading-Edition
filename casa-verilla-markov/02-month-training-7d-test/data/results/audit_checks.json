@@ -1,0 +1,1050 @@
+[
+  {
+    "check": "model_code_unchanged_after_preregistration",
+    "passed": true
+  },
+  {
+    "check": "training_window_exactly_30_days",
+    "passed": true
+  },
+  {
+    "check": "all_training_days_have_real_data",
+    "passed": true
+  },
+  {
+    "check": "7_test_days_with_no_old_test_overlap",
+    "passed": true
+  },
+  {
+    "check": "unique_retained_market_ids",
+    "passed": true
+  },
+  {
+    "check": "reference_labels_match",
+    "passed": true
+  },
+  {
+    "check": "final_train_labels_ready_before_test",
+    "passed": true
+  },
+  {
+    "check": "features_available_only_after_bucket",
+    "passed": true
+  },
+  {
+    "check": "four_consecutive_real_feature_buckets",
+    "passed": true
+  },
+  {
+    "check": "observation_before_expiry",
+    "passed": true
+  },
+  {
+    "check": "train_test_disjoint",
+    "passed": true
+  },
+  {
+    "check": "one_signal_per_model_strategy_market",
+    "passed": true
+  },
+  {
+    "check": "no_duplicate_per_group_market",
+    "passed": true
+  },
+  {
+    "check": "actual_official_payout_used",
+    "passed": true
+  },
+  {
+    "check": "not_after_expiry",
+    "passed": true
+  },
+  {
+    "check": "fixed_100_shares",
+    "passed": true
+  },
+  {
+    "check": "fee_formula_independent",
+    "passed": true
+  },
+  {
+    "check": "trade_net_equals_payout_minus_cash_cost",
+    "passed": true
+  },
+  {
+    "check": "all_probabilities_valid",
+    "passed": true
+  },
+  {
+    "check": "theoretical_sizes_respected",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|all|edge05_p87|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|all|edge05_p87|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|all|edge05_p87|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|all|edge05_p87|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|all|edge05_p87|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|all|edge05_no_filter|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|all|edge05_no_filter|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|all|edge05_no_filter|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|all|edge05_no_filter|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|all|edge05_no_filter|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|all|edge03_band|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|all|edge03_band|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|all|edge03_band|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|all|edge03_band|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|all|edge03_band|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|all|favorite_fixed|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|all|favorite_fixed|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|all|favorite_fixed|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|all|favorite_fixed|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|all|favorite_fixed|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|btc|edge05_p87|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|btc|edge05_p87|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|btc|edge05_p87|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|btc|edge05_p87|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|btc|edge05_p87|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|btc|edge05_no_filter|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|btc|edge05_no_filter|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|btc|edge05_no_filter|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|btc|edge05_no_filter|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|btc|edge05_no_filter|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|btc|edge03_band|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|btc|edge03_band|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|btc|edge03_band|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|btc|edge03_band|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|btc|edge03_band|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|btc|favorite_fixed|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|btc|favorite_fixed|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|btc|favorite_fixed|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|btc|favorite_fixed|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|btc|favorite_fixed|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|eth|edge05_p87|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|eth|edge05_p87|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|eth|edge05_p87|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|eth|edge05_p87|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|eth|edge05_p87|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|eth|edge05_no_filter|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|eth|edge05_no_filter|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|eth|edge05_no_filter|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|eth|edge05_no_filter|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|eth|edge05_no_filter|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|eth|edge03_band|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|eth|edge03_band|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|eth|edge03_band|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|eth|edge03_band|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|eth|edge03_band|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|eth|favorite_fixed|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|eth|favorite_fixed|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|eth|favorite_fixed|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|eth|favorite_fixed|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_market|eth|favorite_fixed|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|all|edge05_p87|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|all|edge05_p87|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|all|edge05_p87|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|all|edge05_p87|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|all|edge05_p87|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|all|edge05_no_filter|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|all|edge05_no_filter|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|all|edge05_no_filter|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|all|edge05_no_filter|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|all|edge05_no_filter|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|all|edge03_band|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|all|edge03_band|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|all|edge03_band|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|all|edge03_band|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|all|edge03_band|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|all|favorite_fixed|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|all|favorite_fixed|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|all|favorite_fixed|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|all|favorite_fixed|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|all|favorite_fixed|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|btc|edge05_p87|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|btc|edge05_p87|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|btc|edge05_p87|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|btc|edge05_p87|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|btc|edge05_p87|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|btc|edge05_no_filter|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|btc|edge05_no_filter|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|btc|edge05_no_filter|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|btc|edge05_no_filter|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|btc|edge05_no_filter|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|btc|edge03_band|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|btc|edge03_band|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|btc|edge03_band|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|btc|edge03_band|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|btc|edge03_band|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|btc|favorite_fixed|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|btc|favorite_fixed|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|btc|favorite_fixed|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|btc|favorite_fixed|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|btc|favorite_fixed|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|eth|edge05_p87|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|eth|edge05_p87|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|eth|edge05_p87|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|eth|edge05_p87|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|eth|edge05_p87|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|eth|edge05_no_filter|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|eth|edge05_no_filter|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|eth|edge05_no_filter|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|eth|edge05_no_filter|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|eth|edge05_no_filter|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|eth|edge03_band|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|eth|edge03_band|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|eth|edge03_band|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|eth|edge03_band|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|eth|edge03_band|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|eth|favorite_fixed|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|eth|favorite_fixed|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|eth|favorite_fixed|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|eth|favorite_fixed|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_small|eth|favorite_fixed|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|all|edge05_p87|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|all|edge05_p87|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|all|edge05_p87|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|all|edge05_p87|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|all|edge05_p87|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|all|edge05_no_filter|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|all|edge05_no_filter|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|all|edge05_no_filter|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|all|edge05_no_filter|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|all|edge05_no_filter|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|all|edge03_band|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|all|edge03_band|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|all|edge03_band|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|all|edge03_band|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|all|edge03_band|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|all|favorite_fixed|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|all|favorite_fixed|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|all|favorite_fixed|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|all|favorite_fixed|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|all|favorite_fixed|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|btc|edge05_p87|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|btc|edge05_p87|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|btc|edge05_p87|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|btc|edge05_p87|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|btc|edge05_p87|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|btc|edge05_no_filter|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|btc|edge05_no_filter|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|btc|edge05_no_filter|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|btc|edge05_no_filter|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|btc|edge05_no_filter|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|btc|edge03_band|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|btc|edge03_band|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|btc|edge03_band|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|btc|edge03_band|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|btc|edge03_band|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|btc|favorite_fixed|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|btc|favorite_fixed|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|btc|favorite_fixed|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|btc|favorite_fixed|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|btc|favorite_fixed|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|eth|edge05_p87|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|eth|edge05_p87|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|eth|edge05_p87|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|eth|edge05_p87|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|eth|edge05_p87|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|eth|edge05_no_filter|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|eth|edge05_no_filter|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|eth|edge05_no_filter|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|eth|edge05_no_filter|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|eth|edge05_no_filter|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|eth|edge03_band|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|eth|edge03_band|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|eth|edge03_band|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|eth|edge03_band|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|eth|edge03_band|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|eth|favorite_fixed|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|eth|favorite_fixed|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|eth|favorite_fixed|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|eth|favorite_fixed|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_medium|eth|favorite_fixed|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|all|edge05_p87|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|all|edge05_p87|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|all|edge05_p87|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|all|edge05_p87|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|all|edge05_p87|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|all|edge05_no_filter|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|all|edge05_no_filter|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|all|edge05_no_filter|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|all|edge05_no_filter|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|all|edge05_no_filter|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|all|edge03_band|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|all|edge03_band|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|all|edge03_band|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|all|edge03_band|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|all|edge03_band|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|all|favorite_fixed|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|all|favorite_fixed|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|all|favorite_fixed|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|all|favorite_fixed|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|all|favorite_fixed|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|btc|edge05_p87|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|btc|edge05_p87|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|btc|edge05_p87|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|btc|edge05_p87|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|btc|edge05_p87|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|btc|edge05_no_filter|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|btc|edge05_no_filter|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|btc|edge05_no_filter|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|btc|edge05_no_filter|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|btc|edge05_no_filter|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|btc|edge03_band|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|btc|edge03_band|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|btc|edge03_band|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|btc|edge03_band|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|btc|edge03_band|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|btc|favorite_fixed|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|btc|favorite_fixed|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|btc|favorite_fixed|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|btc|favorite_fixed|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|btc|favorite_fixed|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|eth|edge05_p87|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|eth|edge05_p87|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|eth|edge05_p87|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|eth|edge05_p87|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|eth|edge05_p87|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|eth|edge05_no_filter|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|eth|edge05_no_filter|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|eth|edge05_no_filter|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|eth|edge05_no_filter|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|eth|edge05_no_filter|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|eth|edge03_band|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|eth|edge03_band|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|eth|edge03_band|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|eth|edge03_band|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|eth|edge03_band|double_fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|eth|favorite_fixed|zero",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|eth|favorite_fixed|fees",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|eth|favorite_fixed|plus1",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|eth|favorite_fixed|delay5_plus2",
+    "passed": true
+  },
+  {
+    "check": "ledger_large|eth|favorite_fixed|double_fees",
+    "passed": true
+  },
+  {
+    "check": "240_group_curves_monotonic_unique_time_and_accounting",
+    "passed": true
+  },
+  {
+    "check": "executable_return_never_fabricated",
+    "passed": true
+  }
+]
