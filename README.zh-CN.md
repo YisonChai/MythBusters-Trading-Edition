@@ -14,15 +14,17 @@
 
 本仓库现在只保留 CasaVerilla 的这一次研究：年度目标未达，实际是 30 日训练加 30 日测试。此前的 3 日和 7 日目录不在树里，也不会被发布。说明见 [casa-verilla-markov](casa-verilla-markov/README.md)。
 
-报告页是 [report.html](https://yisonchai.github.io/MythBusters-Trading-Edition/report.html)。同一文件也以 [REPORT.html](https://yisonchai.github.io/MythBusters-Trading-Edition/REPORT.html) 和站点根路径提供。GitHub Pages 的工作流只发布这份静态报告，不发布 `data/`。小写和大写入口不依赖服务器是否区分大小写。
+预定报告地址是 [report.html](https://yisonchai.github.io/MythBusters-Trading-Edition/report.html)。同一文件也名为 [REPORT.html](https://yisonchai.github.io/MythBusters-Trading-Edition/REPORT.html)，并复制到站点根路径。工作流只发布这份静态报告，不发布 `data/`。
+
+2026-11-17 这次部署没有上线。`actions/deploy-pages` 返回 HTTP 404，因为 GitHub Pages 尚未启用；用当前令牌调用启用接口返回 HTTP 403。在管理员把 [Settings → Pages](https://github.com/YisonChai/MythBusters-Trading-Edition/settings/pages) 设为 GitHub Actions 之前，上面的地址会 404。仓库里的文件是 [REPORT.html](casa-verilla-markov/03-annual-target-unmet-30d-test/REPORT.html)。
 
 | 来源 | 回测数据和代码 | 回测结果 | 最终结论 |
 | --- | --- | --- | --- |
-| [CasaVerilla](https://x.com/CasaVerilla/status/2122259548102656341)：年度目标未达，实际30日训练、30日测试 | [src](casa-verilla-markov/03-annual-target-unmet-30d-test/src) · [data](casa-verilla-markov/03-annual-target-unmet-30d-test/data) · [协议](casa-verilla-markov/03-annual-target-unmet-30d-test/研究协议.md) | [报告](https://yisonchai.github.io/MythBusters-Trading-Edition/report.html)。训练 2026-09-17 08:00 至 2026-10-17 08:00 台北（1436/1440），测试 2026-10-18 08:00 至 2026-11-17 08:00（1434/1440）。页面打开时是大模型 6600 状态、BTC+ETH、3% 差值 + 87% 持续率 + 0.83 至 0.97 价格带、元数据费率：270 笔、+865.76 美元。同一策略在延迟 5 分钟再加 2 美分时为 131 笔、−46.20 美元。这是报价代理，不是可执行成交。测试市场 33.05% 此前已评估，86.61% 此前已下载。市场价基线的 Brier 仍然更好。`data/raw/alternatives/` 未入模。 | confirm |
+| [CasaVerilla](https://x.com/CasaVerilla/status/2122259548102656341)：年度目标未达，实际30日训练、30日测试 | [src](casa-verilla-markov/03-annual-target-unmet-30d-test/src) · [data](casa-verilla-markov/03-annual-target-unmet-30d-test/data) · [协议](casa-verilla-markov/03-annual-target-unmet-30d-test/研究协议.md) | [报告](https://yisonchai.github.io/MythBusters-Trading-Edition/report.html)。训练 2026-09-17 08:00 至 2026-10-17 08:00 台北（1436/1440），测试 2026-10-18 08:00 至 2026-11-17 08:00（1434/1440）。页面打开时是大模型 6600 状态、BTC+ETH、3% 差值 + 87% 持续率 + 0.83 至 0.97 价格带、元数据费率：270 笔、+865.76 美元。同一策略在延迟 5 分钟再加 2 美分时为 131 笔、−46.20 美元。这是报价代理，不是可执行成交。测试市场 33.05% 此前已评估，86.61% 此前已下载。市场价基线的 Brier 仍然更好。`data/raw/alternatives/` 未入模。 | <img src="assets/stamps/confirmed-zh.png" width="145" alt="验证为真"> |
 
-这一行的 `confirm` 只表示本研究已经放进仓库，并且上表数字对照过 `results.csv`。它不表示原帖的一年训练、所宣传的月收益，或稳定可执行盈利已经被证实。
+这一行的「验证为真」印章表示本次研究可以复核，并且上面的报价代理数字与 `results.csv` 一致。它不表示完成了年度训练，也不表示原帖的稳定盈利或月收益已被证实。下方图例写的是：在所列回测条件下，证据支持原主张。这个图例比本行更宽。本行记录的是上面的报价代理结果，其中包括延迟后净亏 46.20 美元，并不把原帖主张当成已被支持。
 
-完成的案例会在最后一列盖上判定章。这一行按字面填写 `confirm`，含义就是上一句，不套用下面印章里“验证为真”的定义。
+完成的案例会在最后一列盖上判定章。
 
 | 印章 | 含义 |
 | --- | --- |
