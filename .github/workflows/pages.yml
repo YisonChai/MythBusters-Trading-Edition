@@ -1,0 +1,45 @@
+name: Deploy annual report
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Publish only the static report
+        run: |
+          set -eu
+          src="casa-verilla-markov/03-annual-target-unmet-30d-test/REPORT.html"
+          test -f "$src"
+          mkdir -p _site
+          cp "$src" _site/REPORT.html
+          cp "$src" _site/report.html
+          cp "$src" _site/index.html
+          find _site -type f -printf '%s %p\n'
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

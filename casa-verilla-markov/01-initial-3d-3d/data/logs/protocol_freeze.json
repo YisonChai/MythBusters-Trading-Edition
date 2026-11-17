@@ -1,9 +1,0 @@
-{
-  "frozen_at": "2026-11-17T17:23:28.367142+08:00",
-  "first_protocol_saved_taipei": "2026-11-17T17:20:02+08:00",
-  "note": "No performance calculation run before this freeze; formatting and bug fixes to null-edge baseline completed before first fit. Any later bug repairs will be logged.",
-  "sha256": {
-    "\u7814\u7a76\u534f\u8bae_\u9884\u5148\u56fa\u5b9a.md": "e683b83b4da8f8e9b06077cd222ebb4259b57ba1b50edcbeb6b6e66d3e95be43",
-    "src/backtest.py": "aabc1ee4eec8eeb3159c808e18ea3dce88ea058b52e3b64920af2818c676e133"
-  }
-}
