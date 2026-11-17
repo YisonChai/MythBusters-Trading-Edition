@@ -1,0 +1,9 @@
+{
+  "retained_markets": 1440,
+  "excluded": 0,
+  "test_markets": 720,
+  "test_observations": 16560,
+  "signal_count_all_variants": 2381,
+  "dataset_sha256": "e2ecf2a6119f193494d2153f5475b3f343f174dd3fec2c9f8b8e81644fc48c4a",
+  "result_sha256": "fd64b72cecfacfaab023c74157930eda5b7fc148ca8c2d306c5e7416265431cc"
+}

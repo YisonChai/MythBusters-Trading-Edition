@@ -1,0 +1,848 @@
+[
+  {
+    "asset": "btc",
+    "t": 1760659200,
+    "date": "2025-10-17T00:00:00+00:00",
+    "market": "636346",
+    "slug": "bitcoin-up-or-down-october-16-8pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": null
+  },
+  {
+    "asset": "eth",
+    "t": 1760659200,
+    "date": "2025-10-17T00:00:00+00:00",
+    "market": "636347",
+    "slug": "ethereum-up-or-down-october-16-8pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": null
+  },
+  {
+    "asset": "btc",
+    "t": 1763164800,
+    "date": "2025-11-15T00:00:00+00:00",
+    "market": "679816",
+    "slug": "bitcoin-up-or-down-november-14-7pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": null
+  },
+  {
+    "asset": "eth",
+    "t": 1763164800,
+    "date": "2025-11-15T00:00:00+00:00",
+    "market": "679817",
+    "slug": "ethereum-up-or-down-november-14-7pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": null
+  },
+  {
+    "asset": "btc",
+    "t": 1765756800,
+    "date": "2025-12-15T00:00:00+00:00",
+    "market": "923081",
+    "slug": "bitcoin-up-or-down-december-14-7pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": null
+  },
+  {
+    "asset": "eth",
+    "t": 1765756800,
+    "date": "2025-12-15T00:00:00+00:00",
+    "market": "923082",
+    "slug": "ethereum-up-or-down-december-14-7pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": null
+  },
+  {
+    "asset": "btc",
+    "t": 1768435200,
+    "date": "2026-01-15T00:00:00+00:00",
+    "market": "1171262",
+    "slug": "bitcoin-up-or-down-january-14-7pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": null
+  },
+  {
+    "asset": "eth",
+    "t": 1768435200,
+    "date": "2026-01-15T00:00:00+00:00",
+    "market": "1171263",
+    "slug": "ethereum-up-or-down-january-14-7pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": null
+  },
+  {
+    "asset": "btc",
+    "t": 1771113600,
+    "date": "2026-02-15T00:00:00+00:00",
+    "market": "1371127",
+    "slug": "bitcoin-up-or-down-february-14-7pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": null
+  },
+  {
+    "asset": "eth",
+    "t": 1771113600,
+    "date": "2026-02-15T00:00:00+00:00",
+    "market": "1371136",
+    "slug": "ethereum-up-or-down-february-14-7pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": null
+  },
+  {
+    "asset": "btc",
+    "t": 1773532800,
+    "date": "2026-03-15T00:00:00+00:00",
+    "market": "1572789",
+    "slug": "bitcoin-up-or-down-march-14-8pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 2,
+      "rate": 0.25,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "eth",
+    "t": 1773532800,
+    "date": "2026-03-15T00:00:00+00:00",
+    "market": "1572807",
+    "slug": "ethereum-up-or-down-march-14-8pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 2,
+      "rate": 0.25,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "btc",
+    "t": 1776211200,
+    "date": "2026-04-15T00:00:00+00:00",
+    "market": "1963980",
+    "slug": "bitcoin-up-or-down-april-14-2026-8pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "eth",
+    "t": 1776211200,
+    "date": "2026-04-15T00:00:00+00:00",
+    "market": "1963990",
+    "slug": "ethereum-up-or-down-april-14-2026-8pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "btc",
+    "t": 1778803200,
+    "date": "2026-05-15T00:00:00+00:00",
+    "market": "2246148",
+    "slug": "bitcoin-up-or-down-may-14-2026-8pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "eth",
+    "t": 1778803200,
+    "date": "2026-05-15T00:00:00+00:00",
+    "market": "2246149",
+    "slug": "ethereum-up-or-down-may-14-2026-8pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "btc",
+    "t": 1781481600,
+    "date": "2026-06-15T00:00:00+00:00",
+    "market": "2526100",
+    "slug": "bitcoin-up-or-down-june-14-2026-8pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "eth",
+    "t": 1781481600,
+    "date": "2026-06-15T00:00:00+00:00",
+    "market": "2526103",
+    "slug": "ethereum-up-or-down-june-14-2026-8pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "btc",
+    "t": 1784073600,
+    "date": "2026-07-15T00:00:00+00:00",
+    "market": "2900902",
+    "slug": "bitcoin-up-or-down-july-14-2026-8pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "eth",
+    "t": 1784073600,
+    "date": "2026-07-15T00:00:00+00:00",
+    "market": "2900903",
+    "slug": "ethereum-up-or-down-july-14-2026-8pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "btc",
+    "t": 1786752000,
+    "date": "2026-08-15T00:00:00+00:00",
+    "market": "3554615",
+    "slug": "bitcoin-up-or-down-august-14-2026-8pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "eth",
+    "t": 1786752000,
+    "date": "2026-08-15T00:00:00+00:00",
+    "market": "3554617",
+    "slug": "ethereum-up-or-down-august-14-2026-8pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "btc",
+    "t": 1788220800,
+    "date": "2026-09-01T00:00:00+00:00",
+    "market": "3987625",
+    "slug": "bitcoin-up-or-down-august-31-2026-8pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "eth",
+    "t": 1788220800,
+    "date": "2026-09-01T00:00:00+00:00",
+    "market": "3987626",
+    "slug": "ethereum-up-or-down-august-31-2026-8pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "btc",
+    "t": 1788998400,
+    "date": "2026-09-10T00:00:00+00:00",
+    "market": "4352270",
+    "slug": "bitcoin-up-or-down-september-9-2026-8pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "eth",
+    "t": 1788998400,
+    "date": "2026-09-10T00:00:00+00:00",
+    "market": "4352271",
+    "slug": "ethereum-up-or-down-september-9-2026-8pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "btc",
+    "t": 1789344000,
+    "date": "2026-09-14T00:00:00+00:00",
+    "market": "4487730",
+    "slug": "bitcoin-up-or-down-september-13-2026-8pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "eth",
+    "t": 1789344000,
+    "date": "2026-09-14T00:00:00+00:00",
+    "market": "4487731",
+    "slug": "ethereum-up-or-down-september-13-2026-8pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "btc",
+    "t": 1789430400,
+    "date": "2026-09-15T00:00:00+00:00",
+    "market": "4512743",
+    "slug": "bitcoin-up-or-down-september-14-2026-8pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "eth",
+    "t": 1789430400,
+    "date": "2026-09-15T00:00:00+00:00",
+    "market": "4512744",
+    "slug": "ethereum-up-or-down-september-14-2026-8pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "btc",
+    "t": 1789516800,
+    "date": "2026-09-16T00:00:00+00:00",
+    "market": "4544344",
+    "slug": "bitcoin-up-or-down-september-15-2026-8pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "eth",
+    "t": 1789516800,
+    "date": "2026-09-16T00:00:00+00:00",
+    "market": "4544345",
+    "slug": "ethereum-up-or-down-september-15-2026-8pm-et",
+    "up_300s_points": 0,
+    "min_timestamp": null,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "btc",
+    "t": 1789603200,
+    "date": "2026-09-17T00:00:00+00:00",
+    "market": "4572243",
+    "slug": "bitcoin-up-or-down-september-16-2026-8pm-et",
+    "up_300s_points": 13,
+    "min_timestamp": 1789603200,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "eth",
+    "t": 1789603200,
+    "date": "2026-09-17T00:00:00+00:00",
+    "market": "4572244",
+    "slug": "ethereum-up-or-down-september-16-2026-8pm-et",
+    "up_300s_points": 13,
+    "min_timestamp": 1789603200,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "btc",
+    "t": 1789689600,
+    "date": "2026-09-18T00:00:00+00:00",
+    "market": "4602016",
+    "slug": "bitcoin-up-or-down-september-17-2026-8pm-et",
+    "up_300s_points": 17,
+    "min_timestamp": 1789688400,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "eth",
+    "t": 1789689600,
+    "date": "2026-09-18T00:00:00+00:00",
+    "market": "4602017",
+    "slug": "ethereum-up-or-down-september-17-2026-8pm-et",
+    "up_300s_points": 17,
+    "min_timestamp": 1789688400,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "btc",
+    "t": 1789776000,
+    "date": "2026-09-19T00:00:00+00:00",
+    "market": "4629008",
+    "slug": "bitcoin-up-or-down-september-18-2026-8pm-et",
+    "up_300s_points": 17,
+    "min_timestamp": 1789774800,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "eth",
+    "t": 1789776000,
+    "date": "2026-09-19T00:00:00+00:00",
+    "market": "4629009",
+    "slug": "ethereum-up-or-down-september-18-2026-8pm-et",
+    "up_300s_points": 17,
+    "min_timestamp": 1789774800,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "btc",
+    "t": 1789862400,
+    "date": "2026-09-20T00:00:00+00:00",
+    "market": "4664273",
+    "slug": "bitcoin-up-or-down-september-19-2026-8pm-et",
+    "up_300s_points": 17,
+    "min_timestamp": 1789861200,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "eth",
+    "t": 1789862400,
+    "date": "2026-09-20T00:00:00+00:00",
+    "market": "4664274",
+    "slug": "ethereum-up-or-down-september-19-2026-8pm-et",
+    "up_300s_points": 17,
+    "min_timestamp": 1789861200,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "btc",
+    "t": 1789948800,
+    "date": "2026-09-21T00:00:00+00:00",
+    "market": "4713440",
+    "slug": "bitcoin-up-or-down-september-20-2026-8pm-et",
+    "up_300s_points": 17,
+    "min_timestamp": 1789947600,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "eth",
+    "t": 1789948800,
+    "date": "2026-09-21T00:00:00+00:00",
+    "market": "4713441",
+    "slug": "ethereum-up-or-down-september-20-2026-8pm-et",
+    "up_300s_points": 17,
+    "min_timestamp": 1789947600,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "btc",
+    "t": 1790035200,
+    "date": "2026-09-22T00:00:00+00:00",
+    "market": "4741984",
+    "slug": "bitcoin-up-or-down-september-21-2026-8pm-et",
+    "up_300s_points": 17,
+    "min_timestamp": 1790034000,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "eth",
+    "t": 1790035200,
+    "date": "2026-09-22T00:00:00+00:00",
+    "market": "4741985",
+    "slug": "ethereum-up-or-down-september-21-2026-8pm-et",
+    "up_300s_points": 17,
+    "min_timestamp": 1790034000,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "btc",
+    "t": 1790208000,
+    "date": "2026-09-24T00:00:00+00:00",
+    "market": "4825206",
+    "slug": "bitcoin-up-or-down-september-23-2026-8pm-et",
+    "up_300s_points": 17,
+    "min_timestamp": 1790206800,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "eth",
+    "t": 1790208000,
+    "date": "2026-09-24T00:00:00+00:00",
+    "market": "4825207",
+    "slug": "ethereum-up-or-down-september-23-2026-8pm-et",
+    "up_300s_points": 17,
+    "min_timestamp": 1790206800,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "btc",
+    "t": 1790380800,
+    "date": "2026-09-26T00:00:00+00:00",
+    "market": "4895517",
+    "slug": "bitcoin-up-or-down-september-25-2026-8pm-et",
+    "up_300s_points": 17,
+    "min_timestamp": 1790379600,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "eth",
+    "t": 1790380800,
+    "date": "2026-09-26T00:00:00+00:00",
+    "market": "4895518",
+    "slug": "ethereum-up-or-down-september-25-2026-8pm-et",
+    "up_300s_points": 17,
+    "min_timestamp": 1790379600,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "btc",
+    "t": 1790553600,
+    "date": "2026-09-28T00:00:00+00:00",
+    "market": "4966233",
+    "slug": "bitcoin-up-or-down-september-27-2026-8pm-et",
+    "up_300s_points": 17,
+    "min_timestamp": 1790552400,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "eth",
+    "t": 1790553600,
+    "date": "2026-09-28T00:00:00+00:00",
+    "market": "4966234",
+    "slug": "ethereum-up-or-down-september-27-2026-8pm-et",
+    "up_300s_points": 17,
+    "min_timestamp": 1790552400,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "btc",
+    "t": 1790726400,
+    "date": "2026-09-30T00:00:00+00:00",
+    "market": "5058745",
+    "slug": "bitcoin-up-or-down-september-29-2026-8pm-et",
+    "up_300s_points": 17,
+    "min_timestamp": 1790725200,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "eth",
+    "t": 1790726400,
+    "date": "2026-09-30T00:00:00+00:00",
+    "market": "5058746",
+    "slug": "ethereum-up-or-down-september-29-2026-8pm-et",
+    "up_300s_points": 17,
+    "min_timestamp": 1790725200,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "btc",
+    "t": 1792022400,
+    "date": "2026-10-15T00:00:00+00:00",
+    "market": "5638353",
+    "slug": "bitcoin-up-or-down-october-14-2026-8pm-et",
+    "up_300s_points": 17,
+    "min_timestamp": 1792021200,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "eth",
+    "t": 1792022400,
+    "date": "2026-10-15T00:00:00+00:00",
+    "market": "5638354",
+    "slug": "ethereum-up-or-down-october-14-2026-8pm-et",
+    "up_300s_points": 17,
+    "min_timestamp": 1792021200,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "btc",
+    "t": 1794700800,
+    "date": "2026-11-15T00:00:00+00:00",
+    "market": "7001762",
+    "slug": "bitcoin-up-or-down-november-14-2026-7pm-et",
+    "up_300s_points": 17,
+    "min_timestamp": 1794699600,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  },
+  {
+    "asset": "eth",
+    "t": 1794700800,
+    "date": "2026-11-15T00:00:00+00:00",
+    "market": "7001763",
+    "slug": "ethereum-up-or-down-november-14-2026-7pm-et",
+    "up_300s_points": 17,
+    "min_timestamp": 1794699600,
+    "resolved": "resolved",
+    "fee": {
+      "exponent": 1,
+      "rate": 0.07,
+      "takerOnly": true,
+      "rebateRate": 0.2
+    }
+  }
+]

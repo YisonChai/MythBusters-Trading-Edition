@@ -1,0 +1,11 @@
+{
+  "audit_checks_passed": 757,
+  "deterministic_csv_files": 20,
+  "html_groups_match_fresh_results": 240,
+  "html_external_resources": [],
+  "html_bytes": 10619081,
+  "embedded_json_bytes": 61348542,
+  "annual_training_completed": false,
+  "browser_visual_test_done": false,
+  "node_tests": "static_DOM_and_native_gzip_not_browser"
+}

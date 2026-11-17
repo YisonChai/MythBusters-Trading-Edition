@@ -1,0 +1,222 @@
+{
+  "test_markets": 1434,
+  "prior_evaluated": 474,
+  "prior_downloaded": 1242,
+  "evaluated_ratio": 0.3305439330543933,
+  "downloaded_ratio": 0.8661087866108786,
+  "evaluated_days": 10,
+  "downloaded_days": 26,
+  "total_days": 30,
+  "daily": [
+    {
+      "day_start": 1792281600,
+      "day_start_taipei": "2026-10-18T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 0,
+      "prior_downloaded": 48
+    },
+    {
+      "day_start": 1792368000,
+      "day_start_taipei": "2026-10-19T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 0,
+      "prior_downloaded": 48
+    },
+    {
+      "day_start": 1792454400,
+      "day_start_taipei": "2026-10-20T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 0,
+      "prior_downloaded": 48
+    },
+    {
+      "day_start": 1792540800,
+      "day_start_taipei": "2026-10-21T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 0,
+      "prior_downloaded": 48
+    },
+    {
+      "day_start": 1792627200,
+      "day_start_taipei": "2026-10-22T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 0,
+      "prior_downloaded": 48
+    },
+    {
+      "day_start": 1792713600,
+      "day_start_taipei": "2026-10-23T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 0,
+      "prior_downloaded": 48
+    },
+    {
+      "day_start": 1792800000,
+      "day_start_taipei": "2026-10-24T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 0,
+      "prior_downloaded": 48
+    },
+    {
+      "day_start": 1792886400,
+      "day_start_taipei": "2026-10-25T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 0,
+      "prior_downloaded": 48
+    },
+    {
+      "day_start": 1792972800,
+      "day_start_taipei": "2026-10-26T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 0,
+      "prior_downloaded": 48
+    },
+    {
+      "day_start": 1793059200,
+      "day_start_taipei": "2026-10-27T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 0,
+      "prior_downloaded": 48
+    },
+    {
+      "day_start": 1793145600,
+      "day_start_taipei": "2026-10-28T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 0,
+      "prior_downloaded": 48
+    },
+    {
+      "day_start": 1793232000,
+      "day_start_taipei": "2026-10-29T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 0,
+      "prior_downloaded": 48
+    },
+    {
+      "day_start": 1793318400,
+      "day_start_taipei": "2026-10-30T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 0,
+      "prior_downloaded": 48
+    },
+    {
+      "day_start": 1793404800,
+      "day_start_taipei": "2026-10-31T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 48,
+      "prior_downloaded": 48
+    },
+    {
+      "day_start": 1793491200,
+      "day_start_taipei": "2026-11-01T08:00:00+08:00",
+      "markets": 42,
+      "prior_evaluated": 42,
+      "prior_downloaded": 42
+    },
+    {
+      "day_start": 1793577600,
+      "day_start_taipei": "2026-11-02T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 48,
+      "prior_downloaded": 48
+    },
+    {
+      "day_start": 1793664000,
+      "day_start_taipei": "2026-11-03T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 48,
+      "prior_downloaded": 48
+    },
+    {
+      "day_start": 1793750400,
+      "day_start_taipei": "2026-11-04T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 48,
+      "prior_downloaded": 48
+    },
+    {
+      "day_start": 1793836800,
+      "day_start_taipei": "2026-11-05T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 48,
+      "prior_downloaded": 48
+    },
+    {
+      "day_start": 1793923200,
+      "day_start_taipei": "2026-11-06T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 48,
+      "prior_downloaded": 48
+    },
+    {
+      "day_start": 1794009600,
+      "day_start_taipei": "2026-11-07T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 0,
+      "prior_downloaded": 0
+    },
+    {
+      "day_start": 1794096000,
+      "day_start_taipei": "2026-11-08T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 0,
+      "prior_downloaded": 0
+    },
+    {
+      "day_start": 1794182400,
+      "day_start_taipei": "2026-11-09T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 0,
+      "prior_downloaded": 0
+    },
+    {
+      "day_start": 1794268800,
+      "day_start_taipei": "2026-11-10T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 0,
+      "prior_downloaded": 0
+    },
+    {
+      "day_start": 1794355200,
+      "day_start_taipei": "2026-11-11T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 0,
+      "prior_downloaded": 48
+    },
+    {
+      "day_start": 1794441600,
+      "day_start_taipei": "2026-11-12T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 0,
+      "prior_downloaded": 48
+    },
+    {
+      "day_start": 1794528000,
+      "day_start_taipei": "2026-11-13T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 0,
+      "prior_downloaded": 48
+    },
+    {
+      "day_start": 1794614400,
+      "day_start_taipei": "2026-11-14T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 48,
+      "prior_downloaded": 48
+    },
+    {
+      "day_start": 1794700800,
+      "day_start_taipei": "2026-11-15T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 48,
+      "prior_downloaded": 48
+    },
+    {
+      "day_start": 1794787200,
+      "day_start_taipei": "2026-11-16T08:00:00+08:00",
+      "markets": 48,
+      "prior_evaluated": 48,
+      "prior_downloaded": 48
+    }
+  ]
+}

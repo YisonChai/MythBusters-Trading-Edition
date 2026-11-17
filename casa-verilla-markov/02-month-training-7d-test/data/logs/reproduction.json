@@ -1,0 +1,16 @@
+{
+  "validation_candidates.csv": true,
+  "predictions.csv": true,
+  "splits.csv": true,
+  "exclusions.csv": true,
+  "observations.csv": true,
+  "state_diagnostics.csv": true,
+  "trades.csv": true,
+  "calibration.csv": true,
+  "prediction_metrics.csv": true,
+  "equity_curves.csv": true,
+  "markets.csv": true,
+  "results.csv": true,
+  "training_states.csv": true,
+  "signals.csv": true
+}

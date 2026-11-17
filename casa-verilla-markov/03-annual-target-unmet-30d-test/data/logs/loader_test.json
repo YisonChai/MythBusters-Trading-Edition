@@ -1,0 +1,7 @@
+{
+  "mode": "node_native_DecompressionStream_not_browser",
+  "gzip_sha256_match": true,
+  "script_syntax_checks": 2,
+  "groups": 240,
+  "annual_training_completed": false
+}

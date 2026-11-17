@@ -1,0 +1,22 @@
+{
+  "half_results.csv": "77cb51b17e71ef80621c5b3c976d12f1b39ede27dc4812e6058e4897c3f1d730",
+  "validation_candidates.csv": "755ebb81b6af8224497521c23eadf9f8eb6ce1ebf98bbe0e1ade0b61fa007331",
+  "test_reuse_daily.csv": "d2d40026a4af3858850b3ade7076d4b14d0f6b84c137d90f9b9cb88179f6bace",
+  "monthly_coverage.csv": "2c1d3ff7c685f414ec72db05f9f3acb3654c0b582f0c68e3fd7b3345ad8d8a38",
+  "predictions.csv": "716d508d4e76b8ac6a4b20bffc9b968d38bcb26b938d26c9f4f7c5aef3755bed",
+  "splits.csv": "7bc65a29a4d68ce76338eed3024e168b28e477c8913ae320d5b412822ec847df",
+  "exclusions.csv": "5297c8ceec90d67bc0b2923a86295569e9ea391889151753905d0090fb5c770b",
+  "half_prediction_metrics.csv": "b0d8b1c6998c774eb97993c6edfd40f5c49f270456134b869af75d36ac81ed6c",
+  "observations.csv": "f7b5e0f8cf63c5ca6c9866e9d86971cc642468da7a11cdd8ac2a5e9ad1c4e118",
+  "half_actual_cohorts.csv": "9f783b6591c1ff49b412cb81bcc802c7515dc4d75f74286b142781a659c576ef",
+  "state_diagnostics.csv": "35761bff970a846d3fb2276ed663e9a81aa805a336b3afea21750cce9bb51245",
+  "trades.csv": "74bb5288a98340294746f137ca2ee3a18be711ef42afa8da9590a86bec9a755e",
+  "calibration.csv": "bc35a588266fb922a56b640162f669e1d68952048181092ea457a9efb709dca9",
+  "prediction_metrics.csv": "55d1a6ca30e480ee7dfc78253e17b2a74feb48f7d5c8a4da1d938097eb531256",
+  "equity_curves.csv": "169b4e6abb7002da36ade17a37c2b573d5cd52b767e16822eb0f9f66d47968f5",
+  "markets.csv": "1a9ac716ca5044124a2fc127c07638ba51e4c8b55effe6ad304e25f345c12da7",
+  "test_reuse.csv": "747a24d8bfd73161bc837ba72c706b1605a8cd5f01e009e5d17ddfc25c6d04a5",
+  "results.csv": "4a8b96e77a8094d9dd855b4b281d4cbe7ae0ccfd0029429dc2739744e1028797",
+  "training_states.csv": "2fb24043e74c71e33508525158282d31f3a7dc6b6dc24939fb0c0d6e25d38f92",
+  "signals.csv": "e3ada5b81eca6d0502e94974459dc01949bc3fba5c70e8cc295fdd611a774539"
+}

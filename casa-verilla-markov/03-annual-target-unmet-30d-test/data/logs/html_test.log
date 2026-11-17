@@ -1,0 +1,1 @@
+{"mode":"static_DOM_stub_not_browser","combinations":240,"zero_trade_combinations":45,"checks":["syntax","no_external_assets","all_filter_combinations","finite_SVG_coordinates","no_fake_empty_curves","pagination","sorting","profit_filter","search","CSV_export_real_rows"],"export_records":927}

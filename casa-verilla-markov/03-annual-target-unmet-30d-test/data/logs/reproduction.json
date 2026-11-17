@@ -1,0 +1,22 @@
+{
+  "half_results.csv": true,
+  "validation_candidates.csv": true,
+  "test_reuse_daily.csv": true,
+  "monthly_coverage.csv": true,
+  "predictions.csv": true,
+  "splits.csv": true,
+  "exclusions.csv": true,
+  "half_prediction_metrics.csv": true,
+  "observations.csv": true,
+  "half_actual_cohorts.csv": true,
+  "state_diagnostics.csv": true,
+  "trades.csv": true,
+  "calibration.csv": true,
+  "prediction_metrics.csv": true,
+  "equity_curves.csv": true,
+  "markets.csv": true,
+  "test_reuse.csv": true,
+  "results.csv": true,
+  "training_states.csv": true,
+  "signals.csv": true
+}

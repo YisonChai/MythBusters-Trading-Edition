@@ -1,0 +1,10 @@
+{
+  "html_bytes": 10619081,
+  "json_sha256": "6122708bf857b682b84a0146411de21fe2ee4efc1dc86a1514f8d86712783265",
+  "uncompressed_embedded_bytes": 61348542,
+  "compression": "gzip_base64_native_DecompressionStream",
+  "groups": 240,
+  "default_model": "small",
+  "overall_validation_best": "market",
+  "annual_training_completed": false
+}

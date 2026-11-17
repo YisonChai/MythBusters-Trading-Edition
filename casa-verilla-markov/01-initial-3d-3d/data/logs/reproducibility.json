@@ -1,0 +1,12 @@
+{
+  "bootstrap_diagnostic.csv": true,
+  "exclusions.csv": true,
+  "folds.csv": true,
+  "all_predictions.csv": true,
+  "variant_results.csv": true,
+  "trades.csv": true,
+  "calibration.csv": true,
+  "model_state_diagnostics.csv": true,
+  "market_manifest.csv": true,
+  "signals.csv": true
+}

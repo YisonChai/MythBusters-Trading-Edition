@@ -1,0 +1,16 @@
+{
+  "versions": {
+    "backtest": "01-initial-3d-3d",
+    "month-backtest": "02-month-training-7d-test",
+    "year-backtest": "03-annual-target-unmet-30d-test"
+  },
+  "mapping": {
+    "src/": "src/ unchanged",
+    "raw/": "data/raw/; root raw symlink preserved",
+    "results/": "data/results/; root results symlink preserved",
+    "logs/": "data/logs/; root logs symlink preserved",
+    "FILES_SHA256.csv": "ORIGINAL_FILES_SHA256.csv; historical manifest, exclusions may be absent",
+    "existing_HTML": "REPORT.html exact-byte copy; original filenames also retained"
+  },
+  "note": "All public original data, including unused HF audit Parquet, retained. No model rerun or changed conclusion."
+}

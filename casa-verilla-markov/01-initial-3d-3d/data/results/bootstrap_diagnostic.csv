@@ -1,0 +1,21 @@
+duration_min,variant,scenario,market_cluster_n,net_pnl,bootstrap_lo_2_5,bootstrap_hi_97_5,warning
+15,terminal_e05_p87,fee_only,576,-60.732410000000044,-455.31128700000016,348.75010524999993,market bootstrap is descriptive; correlated BTC/ETH and just 3 test days invalidate strong significance claims
+15,terminal_e05_nofilter,fee_only,576,-490.75696000000016,-2385.7007527500004,1322.7863294999995,market bootstrap is descriptive; correlated BTC/ETH and just 3 test days invalidate strong significance claims
+15,terminal_e03_p87,fee_only,576,-47.36372000000023,-612.9974112500003,501.3777029999998,market bootstrap is descriptive; correlated BTC/ETH and just 3 test days invalidate strong significance claims
+15,terminal_e03_band,fee_only,576,-4.404640000000171,-510.68680225000026,393.5114124999998,market bootstrap is descriptive; correlated BTC/ETH and just 3 test days invalidate strong significance claims
+15,terminal_e05_band,fee_only,576,-148.31162000000003,-514.1658545,119.99117349999985,market bootstrap is descriptive; correlated BTC/ETH and just 3 test days invalidate strong significance claims
+15,literal_e05_p87,fee_only,576,0.0,0.0,0.0,market bootstrap is descriptive; correlated BTC/ETH and just 3 test days invalidate strong significance claims
+15,literal_e03_band,fee_only,576,0.0,0.0,0.0,market bootstrap is descriptive; correlated BTC/ETH and just 3 test days invalidate strong significance claims
+15,calibrated_e05,fee_only,576,-376.7878500000002,-2542.7326109999995,1749.8251805000004,market bootstrap is descriptive; correlated BTC/ETH and just 3 test days invalidate strong significance claims
+15,favorite_fixed,fee_only,576,-2119.15299,-4259.144501,227.31044349999962,market bootstrap is descriptive; correlated BTC/ETH and just 3 test days invalidate strong significance claims
+15,market_edge,fee_only,576,0.0,0.0,0.0,market bootstrap is descriptive; correlated BTC/ETH and just 3 test days invalidate strong significance claims
+60,terminal_e05_p87,fee_only,144,-27.1896,-43.966438999999994,-13.623158000000004,market bootstrap is descriptive; correlated BTC/ETH and just 3 test days invalidate strong significance claims
+60,terminal_e05_nofilter,fee_only,144,655.5712200000002,-553.2125027500002,1783.4765802499999,market bootstrap is descriptive; correlated BTC/ETH and just 3 test days invalidate strong significance claims
+60,terminal_e03_p87,fee_only,144,-61.01482000000004,-106.05910900000003,-15.363517750000103,market bootstrap is descriptive; correlated BTC/ETH and just 3 test days invalidate strong significance claims
+60,terminal_e03_band,fee_only,144,54.12152999999995,28.458532749999986,83.52653249999992,market bootstrap is descriptive; correlated BTC/ETH and just 3 test days invalidate strong significance claims
+60,terminal_e05_band,fee_only,144,0.0,0.0,0.0,market bootstrap is descriptive; correlated BTC/ETH and just 3 test days invalidate strong significance claims
+60,literal_e05_p87,fee_only,144,0.0,0.0,0.0,market bootstrap is descriptive; correlated BTC/ETH and just 3 test days invalidate strong significance claims
+60,literal_e03_band,fee_only,144,0.0,0.0,0.0,market bootstrap is descriptive; correlated BTC/ETH and just 3 test days invalidate strong significance claims
+60,calibrated_e05,fee_only,144,429.0006099999998,-728.97184025,1599.0438519999998,market bootstrap is descriptive; correlated BTC/ETH and just 3 test days invalidate strong significance claims
+60,favorite_fixed,fee_only,144,-282.08010000000013,-1536.7449550000001,842.1641307499999,market bootstrap is descriptive; correlated BTC/ETH and just 3 test days invalidate strong significance claims
+60,market_edge,fee_only,144,0.0,0.0,0.0,market bootstrap is descriptive; correlated BTC/ETH and just 3 test days invalidate strong significance claims

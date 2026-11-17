@@ -1,0 +1,31 @@
+{
+  "retained_markets": 1440,
+  "excluded": 0,
+  "test_markets": 720,
+  "test_observations": 16560,
+  "signal_count_all_variants": 2381,
+  "dataset_sha256": "e2ecf2a6119f193494d2153f5475b3f343f174dd3fec2c9f8b8e81644fc48c4a",
+  "result_sha256": "fd64b72cecfacfaab023c74157930eda5b7fc148ca8c2d306c5e7416265431cc"
+}
+
+MAIN RESULTS fee_only
+15 terminal_e05_p87 35 -60.732 0.4857142857142857
+15 terminal_e05_nofilter 444 -490.757 0.4527027027027027
+15 terminal_e03_p87 144 -47.364 0.5347222222222222
+15 terminal_e03_band 81 -4.405 0.9259259259259259
+15 terminal_e05_band 18 -148.312 0.8333333333333334
+15 literal_e05_p87 0 0 None
+15 literal_e03_band 0 0 None
+15 calibrated_e05 557 -376.788 0.5062836624775583
+15 favorite_fixed 576 -2119.153 0.5954861111111112
+15 market_edge 0 0 None
+60 terminal_e05_p87 15 -27.19 0.0
+60 terminal_e05_nofilter 142 655.571 0.5563380281690141
+60 terminal_e03_p87 68 -61.015 0.19117647058823528
+60 terminal_e03_band 13 54.122 1.0
+60 terminal_e05_band 0 0 None
+60 literal_e05_p87 0 0 None
+60 literal_e03_band 0 0 None
+60 calibrated_e05 144 429.001 0.5416666666666666
+60 favorite_fixed 144 -282.08 0.5694444444444444
+60 market_edge 0 0 None

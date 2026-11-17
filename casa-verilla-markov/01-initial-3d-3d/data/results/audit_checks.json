@@ -1,0 +1,74 @@
+[
+  {
+    "check": "unique_market_ids",
+    "passed": true
+  },
+  {
+    "check": "actual_binary_payout",
+    "passed": true
+  },
+  {
+    "check": "reference_settlement_no_mismatch",
+    "passed": true
+  },
+  {
+    "check": "no_future_bucket_feature",
+    "passed": true
+  },
+  {
+    "check": "predictions_before_expiry",
+    "passed": true
+  },
+  {
+    "check": "probabilities_in_unit_interval",
+    "passed": true
+  },
+  {
+    "check": "one_signal_per_market_per_variant",
+    "passed": true
+  },
+  {
+    "check": "one_fill_per_market_per_variant_scenario",
+    "passed": true
+  },
+  {
+    "check": "settlement_payout_matches_official",
+    "passed": true
+  },
+  {
+    "check": "no_trade_after_expiry",
+    "passed": true
+  },
+  {
+    "check": "100_shares_constant",
+    "passed": true
+  },
+  {
+    "check": "fee_formula_independent",
+    "passed": true
+  },
+  {
+    "check": "trade_cash_identity",
+    "passed": true
+  },
+  {
+    "check": "no_claimed_executable_profit",
+    "passed": true
+  },
+  {
+    "check": "initial_cash_and_return_denominator",
+    "passed": true
+  },
+  {
+    "check": "frozen_baseline_has_no_trades",
+    "passed": true
+  },
+  {
+    "check": "training_labels_precede_test_cutoff",
+    "passed": true
+  },
+  {
+    "check": "fitted_code_matches_preregistered_hash",
+    "passed": true
+  }
+]

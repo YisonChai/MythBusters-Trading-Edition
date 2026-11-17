@@ -1,0 +1,11 @@
+test_bucket_endpoints (test_core.Tests.test_bucket_endpoints) ... ok
+test_empty_portfolio (test_core.Tests.test_empty_portfolio) ... ok
+test_fee (test_core.Tests.test_fee) ... ok
+test_market_has_no_own_price_edge (test_core.Tests.test_market_has_no_own_price_edge) ... ok
+test_no_future_or_stale_observation (test_core.Tests.test_no_future_or_stale_observation) ... ok
+test_signal_thresholds (test_core.Tests.test_signal_thresholds) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.000s
+
+OK
